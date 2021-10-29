@@ -5,9 +5,6 @@
 ### Cub3d
 [![jaeskim's 42Project Score](https://badge42.herokuapp.com/api/project/clorin/cub3d)](https://github.com/JaeSeoKim/badge42)
 
-### Minishell
-[![jaeskim's 42Project Score](https://badge42.herokuapp.com/api/project/clorin/minishell)](https://github.com/JaeSeoKim/badge42)
-
 ### philosophers
 [![jaeskim's 42Project Score](https://badge42.herokuapp.com/api/project/clorin/philosophers)](https://github.com/JaeSeoKim/badge42)
 
