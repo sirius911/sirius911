@@ -9,4 +9,4 @@
 
 #### Exams
 
-Exam05 :[![clorin's 42 Exam Rank 05 Score](https://badge42.vercel.app/api/v2/cl25yu90q001109mjkto4tay3/project/2544536)](https://github.com/JaeSeoKim/badge42)
+Exam06 :[![clorin's 42 Exam Rank 06 Score](https://badge42.vercel.app/api/v2/cl25yu90q001109mjkto4tay3/project/2544536)](https://github.com/JaeSeoKim/badge42)
