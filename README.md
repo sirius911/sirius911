@@ -5,6 +5,7 @@
 | Projets |  |
 |:-------------------|:-----------------|
 | [Multilayer-perceptron](https://github.com/sirius911/multilayer-perceptron) | [![clorin's 42 multilayer-perceptron Score](https://badge42.vercel.app/api/v2/cl25yu90q001109mjkto4tay3/project/2931704)](https://github.com/JaeSeoKim/badge42)|
+|[42_dslr](https://github.com/laballea/42_dslr) | [![clorin's 42 dslr Score](https://badge42.vercel.app/api/v2/cl25yu90q001109mjkto4tay3/project/2898048)](https://github.com/JaeSeoKim/badge42)|
 | [Modules ML](https://github.com/sirius911/Modules-ML) | [![clorin's 42 ML Module 04 Score](https://badge42.vercel.app/api/v2/cl25yu90q001109mjkto4tay3/project/2908035)](https://github.com/JaeSeoKim/badge42)|
 | [ft_linear_regression](https://github.com/sirius911/ft_linear_regression) | [![clorin's 42 ft_linear_regression Score](https://badge42.vercel.app/api/v2/cl25yu90q001109mjkto4tay3/project/2872329)](https://github.com/JaeSeoKim/badge42)|
 | [Python Modules](https://github.com/sirius911/Python_Modules) |[![clorin's 42 Python Module 04 Score](https://badge42.vercel.app/api/v2/cl25yu90q001109mjkto4tay3/project/2813496)](https://github.com/JaeSeoKim/badge42)|
