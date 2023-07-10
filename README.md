@@ -6,6 +6,7 @@
 |:-------------------|:-----------------|
 | [Dr Quine](https://github.com/sirius911/Dr-Quine) | [![clorin's 42 dr-quine Score](https://badge42.vercel.app/api/v2/cl25yu90q001109mjkto4tay3/project/3110423)](https://github.com/JaeSeoKim/badge42) |
 | [Malloc](https://github.com/sirius911/Malloc) | [![clorin's 42 malloc Score](https://badge42.vercel.app/api/v2/cl25yu90q001109mjkto4tay3/project/3111953)](https://github.com/JaeSeoKim/badge42) |
+| [Snow-Scrash](https://github.com/sirius911/snow-crash) | [![clorin's 42 snow-crash Score](https://badge42.vercel.app/api/v2/cl25yu90q001109mjkto4tay3/project/3043109)](https://github.com/JaeSeoKim/badge42) |
 | [Total Perspective Vortex](https://github.com/sirius911/total-perspective-vortex-) | [![clorin's 42 total-perspective-vortex Score](https://badge42.vercel.app/api/v2/cl25yu90q001109mjkto4tay3/project/3103067)](https://github.com/JaeSeoKim/badge42) |
 | [Multilayer-perceptron](https://github.com/sirius911/multilayer-perceptron) | [![clorin's 42 multilayer-perceptron Score](https://badge42.vercel.app/api/v2/cl25yu90q001109mjkto4tay3/project/2931704)](https://github.com/JaeSeoKim/badge42)|
 |[42_dslr](https://github.com/laballea/42_dslr) | [![clorin's 42 dslr Score](https://badge42.vercel.app/api/v2/cl25yu90q001109mjkto4tay3/project/2898048)](https://github.com/JaeSeoKim/badge42)|
