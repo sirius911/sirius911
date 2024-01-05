@@ -1,5 +1,5 @@
 # 💫 About Me:
-I'm currently learning at 42 School Paris.<br>I'm looking to collaborate on AI in Medical Research
+I'm currently a student at 42 School in Paris.<br>I am looking for a collaboration or an internship in AI research in the medical field.
 
 
 ## 🌐 Socials:
@@ -20,6 +20,7 @@ I'm currently learning at 42 School Paris.<br>I'm looking to collaborate on AI i
 
 ---
 [![](https://visitcount.itsvg.in/api?id=sirius911&icon=0&color=6)](https://visitcount.itsvg.in)
+
 [![clorin's 42 stats](https://badge42.vercel.app/api/v2/cl25yu90q001109mjkto4tay3/stats?cursusId=21&coalitionId=48)](https://github.com/JaeSeoKim/badge42)
 
 #### Derniers projets à 42:
