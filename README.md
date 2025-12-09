@@ -1,6 +1,6 @@
 # 💫 About Me:
-I'm currently a student at 42 School in Paris.<br>I am looking for a collaboration or an internship in AI research in the medical field.
-
+I'm currently a student at 42 School in Paris.<br>
+I am nearing the end of my studies, with interesting topics such as quantum programming, reinforcement learning, and cryptocurrencies.
 
 ## 🌐 Socials:
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://www.linkedin.com/in/cyril-lorin-bba0812a6/) 
